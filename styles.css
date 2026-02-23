@@ -1,0 +1,12 @@
+.moon-planets{
+    list-style: square;
+}
+.shakespeare-comedies{
+    list-style-type: upper-alpha;
+}
+.main-list{
+    list-style: none;
+}
+.nested{
+    list-style: none;
+}
